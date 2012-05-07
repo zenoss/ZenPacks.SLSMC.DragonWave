@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.SLSMC.DragonWave'
 VERSION = '1.0'
 AUTHOR = 'Bob Killick'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.SLSMC']
 PACKAGES = ['ZenPacks', 'ZenPacks.SLSMC', 'ZenPacks.SLSMC.DragonWave']
 INSTALL_REQUIRES = []
